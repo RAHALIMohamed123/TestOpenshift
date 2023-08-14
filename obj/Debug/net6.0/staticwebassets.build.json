@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "T9gT6Qwjo7v4HWhFXKOsusA5IBsJ8srE74nzNX44UuE=",
+  "Source": "TestOpenshift",
+  "BasePath": "_content/TestOpenshift",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
